@@ -1,4 +1,4 @@
-### Olá! Eu sou o Thiago, desenvolvedor Web. 👋🏽
+### Olá! Me chamo Thiago e sou desenvolvedor Web. 👋🏽
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562986251491?text=Ol%C3%A1%2C%20vim%20do%20GitHub!)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thigasfella/?utm_source=qr&igsh=amlhZndvdzBid3pq)
@@ -7,7 +7,7 @@
 
 [![stats](https://github-stats-alpha.vercel.app/api?username=thigasfella&cc=000&tc=fff&ic=fff&bc=000 "stats")](https://github-stats-alpha.vercel.app/api?username=thigasfella&cc=000&tc=fff&ic=fff&bc=000 "stats")
 
-## Tecnologias que uso
+## Tecnologias
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -24,5 +24,6 @@
 ## Sobre mim
 Sou um jovem desenvolvedor web de 19 anos, apaixonado por criar soluções inovadoras com tecnologias como javascript, typescript, React, Next.js e Node.js. Atualmente, estou cursando ADS na Anhanguera e estou constantemente aprimorando minhas habilidades para deixar minha marca no mundo da programação.
 
-
+##Projetos
+- [PORTFÓLIO](https://github.com/thigasfella/portfolio)
 
