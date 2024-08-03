@@ -5,5 +5,4 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-lopes-de-souza-a34930301/)
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thigas-portfolio.vercel.app)
 
-https://github-stats-alpha.vercel.app/api?username={thigasfella}
-
+[![stats](https://github-stats-alpha.vercel.app/api?username=thigasfella&cc=000&tc=fff&ic=fff&bc=000 "stats")](https://github-stats-alpha.vercel.app/api?username=thigasfella&cc=000&tc=fff&ic=fff&bc=000 "stats")
