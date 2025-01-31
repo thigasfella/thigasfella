@@ -22,6 +22,6 @@
 </div><br/>
 
 ## Sobre mim
-- Sou um jovem desenvolvedor web de 19 anos, apaixonado por criar soluções inovadoras com tecnologias como javascript, typescript, React, Next.js e Node.js. Atualmente, estou cursando ADS na Anhanguera e estou constantemente aprimorando minhas habilidades para deixar minha marca no mundo da programação.
+- Sou um jovem desenvolvedor web de 20 anos, apaixonado por criar soluções inovadoras com tecnologias como javascript, typescript, React, Next.js e Node.js. Atualmente, estou cursando ADS na Anhanguera e estou constantemente aprimorando minhas habilidades para deixar minha marca no mundo da programação.
 
 
