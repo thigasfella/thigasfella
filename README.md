@@ -21,6 +21,6 @@
 </div><br/>
 
 ## Sobre mim
-- Sou um jovem desenvolvedor web de 20 anos, apaixonado por criar soluções inovadoras com tecnologias como javascript, typescript, React, Next.js e Node.js. Atualmente, estou cursando ADS na Anhanguera e estou constantemente aprimorando minhas habilidades para deixar minha marca no mundo da programação.
+- Oi, sou o Thiago Lopes de Souza, desenvolvedor Fullstack de 20 anos e estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e adoro criar soluções práticas. Gosto de trabalhar tanto no front quanto no back, sempre buscando melhorar a experiência do usuário e otimizar processos. No meu tempo livre, estou sempre aprendendo algo novo ou criando projetos pessoais para colocar em prática o que aprendo.
 
 
