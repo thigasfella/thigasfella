@@ -1,7 +1,7 @@
 ### Olá! Me chamo Thiago e sou desenvolvedor Web. 👋🏽
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5562986251491?text=Ol%C3%A1%2C%20Thiago!%0AVim%20do%20seu%20Portf%C3%B3lio.%20Me%20chamo...)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/thigasfella/?utm_source=qr&igsh=amlhZndvdzBid3pq](https://www.instagram.com/_thigasdev_/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_thigasdev_/)
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thigaslps/)
 [![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://thigasdev.vercel.app)
 
